@@ -1,6 +1,6 @@
 # MIT-6.002-Project-1
 
-#Overview
+# Overview
 
 This is the first project of the MIT-6.002 class: Introduction to Computational Thinking and Data Science
 
