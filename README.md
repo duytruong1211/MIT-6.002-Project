@@ -1,6 +1,7 @@
 # MIT-6.002-Project-1
 
 #Overview
+
 This is the first project of the MIT-6.002 class: Introduction to Computational Thinking and Data Science
 
 In this problem set, I will create two algorithms: Greedy algorithm and Brute Force algorithm. Both algorithm takes in a dictionary containing the cows' names and their corresponding weights. Both algorithms will return the highest sum weight, depending on different methods.
